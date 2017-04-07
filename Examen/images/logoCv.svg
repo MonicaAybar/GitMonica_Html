@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000000" transform="matrix(11.92996421901645,0,0,17.239067773479178,-1518.3986338025961,-2396.607110351415) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="160.593946" x="154.819122" fill="#000000">MAS</text>
+  <line stroke="#000000" stroke-width="8" transform="rotate(1.0912162065505981 317.3388977050785,30.708358764649876) " id="svg_2" y2="25.208359" x2="602.279811" y1="36.20836" x1="32.398025" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="none"/>
+  <line stroke="#000000" id="svg_3" stroke-width="8" transform="rotate(1.0912162065505981 323.43228149414364,439.30535888671807) " y2="433.767288" x2="615.467132" y1="444.843465" x1="31.397464" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="none"/>
+ </g>
+</svg>
